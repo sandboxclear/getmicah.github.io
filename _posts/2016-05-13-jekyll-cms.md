@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Jekyll CMS
 
@@ -12,5 +12,3 @@ Dolorem neque temporibus est pariatur alias non odio. Expedita aliquid et ab. Co
 Sunt architecto quisquam possimus quidem ullam sed excepturi. Quae et laborum velit vel ut qui voluptatum. Voluptatem quasi architecto sint quod deleniti beatae autem sunt. Animi magni consequatur qui et. Vero omnis iste eum sit. Aut dolore quidem atque facere in.
 
 ![Unsacred Rimando](http://beerpulse.com/wp-content/uploads/2013/03/Unsacred-Rimandos-Wit-Beer-e1362774618407-200x200.png)
-
-
